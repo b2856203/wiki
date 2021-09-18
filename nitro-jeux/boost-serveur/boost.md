@@ -37,6 +37,7 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 * Icône de serveur animé
 * Arrière-plan d'invitation du serveur personnalisé
 * Stream en haute définition (720p 60 fps) pour tous les membres
+* Option archive pour fils de 3 jours
 
 ### ![Niveau 2](https://i.discord.fr/2tw.png)
 * Avantages du niveau 1
@@ -45,6 +46,9 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 * Bannière de serveur
 * Limite de téléchargement pour tous les membres de 50Mo
 * Stream en 1080p 60fps pour tous les membres
+* Icônes de rôles personnalisées
+* Option archive pour fils de 1 semaine
+* Créer des fils privés
 
 ### ![Niveau 3](https://i.discord.fr/NDb.png)
 * Avantages du niveau 2
