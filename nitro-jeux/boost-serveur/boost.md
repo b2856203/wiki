@@ -45,6 +45,7 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 * Bannière de serveur
 * Limite de téléchargement pour tous les membres de 50Mo
 * Stream en 1080p 60fps pour tous les membres
+* Mets des icônes aux rôles de ton serveur.
 
 ### ![Niveau 3](https://i.discord.fr/NDb.png)
 * Avantages du niveau 2
