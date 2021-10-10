@@ -52,7 +52,7 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 
 Il avait été donné à tous ceux qui avaient Discord Nitro avant le 10 octobre 2018 à 19h20 *(c'est précis :p)*. C'était un cadeau pour remercier les premiers soutiens de discord.
 
-**Ce badge n'est donc plus obtenable.**
+**Ce badge n'est donc plus obtensible.**
 
 <br />
 
